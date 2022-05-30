@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thulasiyan</h1>
 <h3 align="center">An Undergrauate at University Of Peradeniya Department of Computer Engineer. A passionate Flutter App developer from Srilanka.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sythulasi&label=Profile%20views&color=0e75b6&style=flat" alt="sythulasi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sythulasi" alt="sythulasi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/s_y_thulasi" target="blank"><img src="https://img.shields.io/twitter/follow/s_y_thulasi?logo=twitter&style=for-the-badge" alt="s_y_thulasi" /></a> </p>
 
 - 📫 How to reach me **sythulasi.6@gmail.com**
 
