@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thulasiyan</h1>
-<h3 align="center">I am an undergraduate Computer Engineering student at University of Peradeniya. C, C++, Python, Dart, Javascript and HTML are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.</h3>
+<h3 align="center">I am an undergraduate Computer Engineering student at University of Peradeniya. C, C++, Python, Dart and Javascript are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.</h3>
 
 - 🔭 I’m currently working on [BeTheChange](https://github.com/SyThulasi/BeTheChange_App.git)
 
