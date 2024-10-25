@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thulasiyan</h1>
-<h3 align="center">I am an undergraduate Computer Engineering student at University of Peradeniya. Java, Python, JavaScript and  C are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.</h3>
+<h3 align="center">I'm a Full Stack Software Engineer with a background in Computer Engineering from the University of Peradeniya. Proficient in Java, Python, JavaScript, and C, I’m passionate about learning and building innovative, productive projects that make an impact. I thrive on solving challenges and exploring new technologies to develop creative solutions.</h3>
 
 <!-- - 🔭 I’m currently working on [BeTheChange] (https://github.com/SyThulasi/BeTheChange_App.git) -->
 <!-- - 🔭 I’m currently working on Automated Security System -->
@@ -11,10 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/s_y_thulasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_y_thulasi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thulasiyan yogeswaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thulasiyan yogeswaran" height="30" width="40" /></a>
-<a href="https://fb.com/sythulasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sythulasi" height="30" width="40" /></a>
-<a href="https://instagram.com/s_y_thulasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_y_thulasi" height="30" width="40" /></a>
 <a href="https://discord.gg/s.y.thulasi#7990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="s.y.thulasi#7990" height="30" width="40" /></a>
 </p>
 
